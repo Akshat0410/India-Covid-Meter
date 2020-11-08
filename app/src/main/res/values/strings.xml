@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AP</string>
+    <string name="total_cases">TOTAL CASES</string>
+    <string name="active_cases">ACTIVE CASES</string>
+    <string name="recovered">RECOVERED</string>
+    <string name="deaths">DEATHS</string>
+
+    <string name="_20000">20000</string>
+    <string name="_1000">1000</string>
+    <string name="_7500">7500</string>
+
+    <string name="covid">COVID</string>
+    <string name="meter">METER</string>
+    <string name="india">INDIA</string>
+    <string name="enter_state_name">Enter State Name</string>
+    <string name="_9500">500</string>
+    <string name="select_state">Select State</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="_20_10_20_00_34_20">20/10/20 00:34:20</string>
+    <string name="new_cases">NEW CASES</string>
+    <string name="_2000">2000</string>
+    <string name="deaths_today">DEATHS TODAY</string>
+    <string name="dtdatahint">500</string>
+    <string name="recovered_today">RECOVERED TODAY</string>
+    <string name="_45000">45000</string>
+    <string name="total_tests_done">TOTAL TESTS DONE</string>
+    <string name="_100000000">100000000</string>
+    <string name="samples_tested_today">SAMPLES TESTED TODAY</string>
+    <string name="_1000000">1000000</string>
+    <string name="positivity_rate">POSITIVITY RATE</string>
+    <string name="_3_41">3.41%</string>
+    <string name="total_case">TOTAL CASE</string>
+    <string name="_6000">6000</string>
+    <string name="_500">500</string>
+    <string name="_4000">4000</string>
+    <string name="_10000">10000</string>
+    <string name="get_data">GET DATA</string>
+</resources>

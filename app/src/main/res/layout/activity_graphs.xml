@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16sp"
+    tools:context=".Graphs"
+    android:background="@drawable/graphbackground"
+    >
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph11"
+        android:layout_width="350dip"
+        android:layout_height="150dip"
+        />
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph12"
+        android:layout_marginTop="170dp"
+        android:layout_width="350dip"
+        android:layout_height="150dip"
+     />
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph13"
+        android:layout_marginTop="340dp"
+        android:layout_width="350dp"
+        android:layout_height="150dip"
+        />
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graph14"
+        android:layout_marginTop="510dp"
+        android:layout_width="350dip"
+        android:layout_height="150dip"
+        />
+
+</RelativeLayout>
